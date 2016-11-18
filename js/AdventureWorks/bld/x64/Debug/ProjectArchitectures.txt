@@ -1,0 +1,1 @@
+F:\Official Samples\Windows-universal-samples-master\Samples\CortanaVoiceCommand\js\AdventureWorks\AdventureWorks.jsproj;x64

@@ -1,0 +1,128 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>PC-WINFFEE</Machine>
+    <WindowsUser>v-xucxia</WindowsUser>
+    <TargetPlatformIdentifier>UAP</TargetPlatformIdentifier>
+    <TargetOsVersion>10.0</TargetOsVersion>
+    <TargetOsDescription>Windows 10.0</TargetOsDescription>
+    <SolutionConfiguration>Debug|x64</SolutionConfiguration>
+    <PackageArchitecture>x64</PackageArchitecture>
+    <PackageIdentityName>965b0de5-f42d-43dc-af85-52a398b188fc</PackageIdentityName>
+    <PackageIdentityPublisher>CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US</PackageIdentityPublisher>
+    <IntermediateOutputPath>F:\Official Samples\Windows-universal-samples-master\Samples\CortanaVoiceCommand\js\AdventureWorks\bld\x64\Debug\</IntermediateOutputPath>
+    <RemoteDeploymentType></RemoteDeploymentType>
+    <PackageRegistrationPath></PackageRegistrationPath>
+    <RemoveNonLayoutFiles>true</RemoveNonLayoutFiles>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="F:\Official Samples\Windows-universal-samples-master\Samples\CortanaVoiceCommand\js\AdventureWorks\bin\x64\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="F:\Official Samples\Windows-universal-samples-master\Samples\CortanaVoiceCommand\shared\AdventureWorksCommands.xml">
+      <PackagePath>AdventureWorksCommands.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\Official Samples\Windows-universal-samples-master\Samples\CortanaVoiceCommand\js\AdventureWorks\css\tripDetails.css">
+      <PackagePath>css\tripDetails.css</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\Official Samples\Windows-universal-samples-master\Samples\CortanaVoiceCommand\js\AdventureWorks\css\tripListView.css">
+      <PackagePath>css\tripListView.css</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\Official Samples\Windows-universal-samples-master\Samples\CortanaVoiceCommand\js\AdventureWorks\css\default.css">
+      <PackagePath>css\default.css</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\Official Samples\Windows-universal-samples-master\SharedContent\js\Microsoft.WinJS\css\ui-dark.css">
+      <PackagePath>Microsoft.WinJS.4.0\css\ui-dark.css</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\Official Samples\Windows-universal-samples-master\SharedContent\js\Microsoft.WinJS\css\ui-light.css">
+      <PackagePath>Microsoft.WinJS.4.0\css\ui-light.css</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\Official Samples\Windows-universal-samples-master\Samples\CortanaVoiceCommand\js\AdventureWorks\default.html">
+      <PackagePath>default.html</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\Official Samples\Windows-universal-samples-master\Samples\CortanaVoiceCommand\js\AdventureWorks\html\tripDetails.html">
+      <PackagePath>html\tripDetails.html</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\Official Samples\Windows-universal-samples-master\Samples\CortanaVoiceCommand\js\AdventureWorks\html\tripListView.html">
+      <PackagePath>html\tripListView.html</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\Official Samples\Windows-universal-samples-master\Samples\CortanaVoiceCommand\js\AdventureWorks\images\GreyTile.scale-100.png">
+      <PackagePath>images\GreyTile.scale-100.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\Official Samples\Windows-universal-samples-master\Samples\CortanaVoiceCommand\js\AdventureWorks\images\GreyTile.scale-150.png">
+      <PackagePath>images\GreyTile.scale-150.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\Official Samples\Windows-universal-samples-master\Samples\CortanaVoiceCommand\js\AdventureWorks\images\GreyTile.scale-200.png">
+      <PackagePath>images\GreyTile.scale-200.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\Official Samples\Windows-universal-samples-master\Samples\CortanaVoiceCommand\js\AdventureWorks\images\GreyTile.scale-225.png">
+      <PackagePath>images\GreyTile.scale-225.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\Official Samples\Windows-universal-samples-master\Samples\CortanaVoiceCommand\js\AdventureWorks\images\GreyTile.scale-400.png">
+      <PackagePath>images\GreyTile.scale-400.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\Official Samples\Windows-universal-samples-master\SharedContent\media\microsoft-sdk.png">
+      <PackagePath>images\microsoft-sdk.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\Official Samples\Windows-universal-samples-master\SharedContent\media\smalltile-sdk.png">
+      <PackagePath>images\smallTile-sdk.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\Official Samples\Windows-universal-samples-master\SharedContent\media\splash-sdk.png">
+      <PackagePath>images\splash-sdk.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\Official Samples\Windows-universal-samples-master\SharedContent\media\storelogo-sdk.png">
+      <PackagePath>images\storeLogo-sdk.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\Official Samples\Windows-universal-samples-master\SharedContent\media\tile-sdk.png">
+      <PackagePath>images\tile-sdk.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\Official Samples\Windows-universal-samples-master\SharedContent\media\windows-sdk.png">
+      <PackagePath>images\windows-sdk.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\Official Samples\Windows-universal-samples-master\Samples\CortanaVoiceCommand\js\AdventureWorks\js\default.js">
+      <PackagePath>js\default.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\Official Samples\Windows-universal-samples-master\Samples\CortanaVoiceCommand\js\AdventureWorks\js\store.js">
+      <PackagePath>js\store.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\Official Samples\Windows-universal-samples-master\Samples\CortanaVoiceCommand\js\AdventureWorks\js\tripDetails.js">
+      <PackagePath>js\tripDetails.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\Official Samples\Windows-universal-samples-master\Samples\CortanaVoiceCommand\js\AdventureWorks\js\tripListView.js">
+      <PackagePath>js\tripListView.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\Official Samples\Windows-universal-samples-master\Samples\CortanaVoiceCommand\js\AdventureWorks\js\voiceCommandService.js">
+      <PackagePath>js\voiceCommandService.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\Official Samples\Windows-universal-samples-master\SharedContent\js\Microsoft.WinJS\js\en-US\ui.strings.js">
+      <PackagePath>Microsoft.WinJS.4.0\js\en-US\ui.strings.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\Official Samples\Windows-universal-samples-master\SharedContent\js\Microsoft.WinJS\js\WinJS.intellisense-setup.js">
+      <PackagePath>Microsoft.WinJS.4.0\js\WinJS.intellisense-setup.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\Official Samples\Windows-universal-samples-master\SharedContent\js\Microsoft.WinJS\js\WinJS.intellisense.js">
+      <PackagePath>Microsoft.WinJS.4.0\js\WinJS.intellisense.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\Official Samples\Windows-universal-samples-master\SharedContent\js\Microsoft.WinJS\js\base.js">
+      <PackagePath>Microsoft.WinJS.4.0\js\base.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\Official Samples\Windows-universal-samples-master\SharedContent\js\Microsoft.WinJS\js\ui.js">
+      <PackagePath>Microsoft.WinJS.4.0\js\ui.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\Official Samples\Windows-universal-samples-master\SharedContent\js\Microsoft.WinJS\fonts\Symbols.ttf">
+      <PackagePath>Microsoft.WinJS.4.0\fonts\Symbols.ttf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\Official Samples\Windows-universal-samples-master\Samples\CortanaVoiceCommand\js\AdventureWorks\bin\x64\Debug\ReverseMap\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

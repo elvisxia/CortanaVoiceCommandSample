@@ -1,0 +1,16 @@
+F:\Official Samples\Windows-universal-samples-master\Samples\CortanaVoiceCommand\js\AdventureWorks\bin\x64\Debug\ReverseMap\resources.pri
+F:\Official Samples\Windows-universal-samples-master\Samples\CortanaVoiceCommand\js\AdventureWorks\bin\x64\Debug\AppxManifest.xml
+F:\Official Samples\Windows-universal-samples-master\Samples\CortanaVoiceCommand\js\AdventureWorks\bin\x64\Debug\AdventureWorks.build.appxrecipe
+F:\Official Samples\Windows-universal-samples-master\Samples\CortanaVoiceCommand\js\AdventureWorks\bld\x64\Debug\ResourceHandlingTask.state
+F:\Official Samples\Windows-universal-samples-master\Samples\CortanaVoiceCommand\js\AdventureWorks\bld\x64\Debug\priconfig.xml
+F:\Official Samples\Windows-universal-samples-master\Samples\CortanaVoiceCommand\js\AdventureWorks\bld\x64\Debug\priconfig.xml.intermediate
+F:\Official Samples\Windows-universal-samples-master\Samples\CortanaVoiceCommand\js\AdventureWorks\bld\x64\Debug\layout.resfiles
+F:\Official Samples\Windows-universal-samples-master\Samples\CortanaVoiceCommand\js\AdventureWorks\bld\x64\Debug\layout.resfiles.intermediate
+F:\Official Samples\Windows-universal-samples-master\Samples\CortanaVoiceCommand\js\AdventureWorks\bld\x64\Debug\resources.resfiles
+F:\Official Samples\Windows-universal-samples-master\Samples\CortanaVoiceCommand\js\AdventureWorks\bld\x64\Debug\resources.resfiles.intermediate
+F:\Official Samples\Windows-universal-samples-master\Samples\CortanaVoiceCommand\js\AdventureWorks\bld\x64\Debug\pri.resfiles
+F:\Official Samples\Windows-universal-samples-master\Samples\CortanaVoiceCommand\js\AdventureWorks\bld\x64\Debug\pri.resfiles.intermediate
+F:\Official Samples\Windows-universal-samples-master\Samples\CortanaVoiceCommand\js\AdventureWorks\bld\x64\Debug\qualifiers.txt
+F:\Official Samples\Windows-universal-samples-master\Samples\CortanaVoiceCommand\js\AdventureWorks\bld\x64\Debug\qualifiers.txt.intermediate
+F:\Official Samples\Windows-universal-samples-master\Samples\CortanaVoiceCommand\js\AdventureWorks\bld\x64\Debug\MultipleQualifiersPerDimensionFound.txt
+F:\Official Samples\Windows-universal-samples-master\Samples\CortanaVoiceCommand\js\AdventureWorks\bld\x64\Debug\ProjectArchitectures.txt
